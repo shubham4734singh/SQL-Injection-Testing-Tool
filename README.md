@@ -17,7 +17,6 @@ An automated tool for testing web applications for SQL injection vulnerabilities
 - [Usage](#usage)
 - [Example](#example)
 - [Contributing](#contributing)
-- [License](#license)
 - [Disclaimer](#disclaimer)
 
 ## Requirements
@@ -111,10 +110,6 @@ Contributions are welcome! If you would like to contribute to the project, pleas
 3. Commit your changes (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature/new-feature`).
 5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Disclaimer
 
