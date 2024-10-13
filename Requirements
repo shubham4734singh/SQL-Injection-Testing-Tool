@@ -1,0 +1,11 @@
+Summary of Requirements
+Category --	Requirement
+Operating System --	Kali Linux, Ubuntu, or any Linux-based OS (or macOS, WSL)
+Languages	-- Bash, Python 3.x
+Python Libraries	requests (install via pip3)
+Files	-- sql_injection_test.sh, sql_injection_tester.py, payloads.txt
+Testing Environments --	DVWA, OWASP Mutillidae, bWAPP, or PortSwigger Web Security Academy
+Hardware	2 GB RAM, 10 GB storage, virtualization support (if using VMs)
+Network	Internet (for online testing) or localhost setup
+Browser/Proxy Tools	(Optional) Web browser, Burp Suite
+Ethics	Use in authorized environments only
