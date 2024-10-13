@@ -40,7 +40,7 @@ To run this project, you will need:
 
    Clone the project repository to your local machine using Git:
    ```bash
-   git clone https://github.com/username/sql-injection-test-tool.git
+   git clone https://github.com/shubham4734singh/SQL-Injection-Testing-Tool
    ```
 
    Replace `username` with the appropriate GitHub username if needed.
